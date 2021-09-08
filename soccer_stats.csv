@@ -1,0 +1,99 @@
+﻿team_name,country,league_pos,xG,xGA,value
+Real Madrid ,Spain,1,72.16,33.15,1320
+Barcelona,Spain,2,72.01,37.82,1320
+Atletico Madrid ,Spain,3,58.7,31.52,928.67
+Sevilla,Spain,4,55.16,36.62,361.24
+Villareal,Spain,5,65.61,48.59,272.09
+Real Sociedad,Spain,6,50.92,41.89,327.42
+Granada,Spain,7,45.02,43.44,54.62
+Getafe,Spain,8,45.19,43.02,185.29
+Valencia,Spain,9,45.58,59.07,542.85
+Osasuna,Spain,10,49.04,49.58,59.07
+Athletic Club,Spain,11,42.1,52.42,245.25
+Levante,Spain,12,49.43,64.25,117.15
+Real Valladolid,Spain,13,35.66,53.94,114.07
+Eibar,Spain,14,42.35,54.33,82.83
+Real Betis,Spain,15,48.9,56.3,370.98
+Alaves,Spain,16,38.15,57.93,145.2
+Celta Vigo,Spain,17,40.44,44.83,273.02
+Leganes,Spain,18,38.92,45.62,144.87
+Mallorca,Spain,19,40.48,65.17,69.03
+Espanyol,Spain,20,37,53.28,229.52
+Liverpool,England,1,75.19,39.57,1200
+Manchester City,England,2,102.21,37,1400
+Manchester United,England,3,66.19,38.06,852.72
+Chelsea,England,4,76.23,41.09,876.7
+Leicester,England,5,61.02,47.89,423.23
+Tottenham,England,6,49.02,54.13,1150
+Wolverhampton Wanderers,England,7,54.22,37.39,346.94
+Arsenal,England,8,50.82,57.25,748.61
+Sheffield United,England,9,45.81,52.04,121.88
+Burnley,England,10,49.35,53.84,226.13
+Southampton,England,11,56.5,56.59,285.78
+Everton,England,12,53.71,49.21,578.05
+Newcastle United,England,13,36.49,67.03,343.83
+Crystal Palace,England,14,34.45,57.39,273.52
+Brighton,England,15,47.42,60.42,248.41
+West Ham,England,16,49.07,68.32,408.93
+Aston Villa,England,17,45.09,71.6,203.06
+Bournemouth,England,18,44.87,63.29,342.32
+Watford,England,19,48.56,59.53,297.72
+Norwich,England,20,37.23,71.61,121.94
+Bayern Munich,Germany,1,92.85,36.47,1000
+Borussia Dortmund,Germany,2,64.26,42.02,760.13
+RB Leipzig,Germany,3,76.13,37.58,618.09
+Borussia M.Gladback,Germany,4,73.58,46.05,287.05
+Bayer Leverkusen,Germany,5,61.88,49.68,485.05
+Hoffenheim,Germany,6,56.66,58.75,321.23
+Wolfsburg,Germany,7,54.43,41.91,259.99
+Freiburg,Germany,8,46.14,63.37,133.29
+Eintracht Frankfurt,Germany,9,58.33,50.93,271.81
+Hertha Berlin,Germany,10,44.3,55.58,313.67
+Union Berlin,Germany,11,41.58,54.94,44.28
+Schalke 04,Germany,12,35.93,54.22,253.1
+Mainz 05,Germany,13,46.19,62.9,167.78
+FC Cologne,Germany,14,49.28,54.54,128.65
+Augsburg,Germany,15,43.86,59.12,146.8
+Werder Bremen,Germany,16,37.74,56.94,222.12
+Fortuna Duesseldorf,Germany,17,35.69,64.45,105.85
+Paderborn,Germany,18,38.47,67.83,28.97
+Juventus,Italy,1,73.77,41,957.19
+Inter,Italy,2,73.95,39.36,728.09
+Atalanta,Italy,3,86.17,41.73,312.84
+Lazio,Italy,4,67.55,52.33,315.92
+Roma,Italy,5,78.32,49.15,482.3
+AC Milan,Italy,6,65.27,46.42,619.41
+Napoli,Italy,7,63.88,43.17,796.18
+Sassuolo,Italy,8,53.42,65.07,198.41
+Fiorentina,Italy,9,53.49,50.3,365.04
+Parma,Italy,10,47.12,64.13,135.05
+Verona,Italy,11,52.49,53.95,65.26
+Bologna,Italy,12,57.41,54.87,125.37
+Calgliari,Italy,13,41.92,60.98,207.16
+Udinese,Italy,14,43.69,52.54,177.49
+Sampdoria,Italy,15,48.92,56.21,199.62
+Torino,Italy,16,43.49,63.49,254.51
+Genoa,Italy,17,49.89,59.51,203.61
+Leccce,Italy,18,53.47,91.97,77.36
+Brescia,Italy,19,43.25,78.38,103.59
+SPAL,Italy,20,39.07,71.97,107.53
+Paris Saint Germain,France,1,76.42,22.43,1200
+Marseille,France,2,36.42,32.05,268.07
+Rennes,France,3,34.37,28.15,175.51
+Lille,France,4,40.81,30.17,203.5
+Reims,France,5,28.93,26.47,77.11
+Nice,France,6,36.45,42.69,200.04
+Lyon,France,7,36.24,24.73,406.45
+Montpellier,France,8,34.95,32.26,101.2
+Monaco,France,9,48.55,41.06,450.18
+Angers,France,10,27.1,28.15,85.47
+Strasbourg,France,11,34.56,33.46,111.16
+Bordeaux,France,12,30.47,35.2,154.4
+Nantes,France,13,27.81,30.26,116
+Brest,France,14,30.05,44.11,40.43
+Metz,France,15,24.65,36.54,52.75
+Dijon,France,16,27.38,39.3,52.86
+Saint-Etienne,France,17,29.65,37.73,130.41
+Nimes,France,18,30.19,40.47,64.02
+Amiens,France,19,25.62,38.43,82.28
+Toulouse,France,20,31.29,48.28,92.84
